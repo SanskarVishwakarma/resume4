@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contact me</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <h1>Contact me</h1>
+    <p><strong>Address: Chanakyapuri colony, Gola road, Patna</strong></p>
+    <p><strong>Mobile:0717962189</strong></p>
+    <p><a href="mailto:sanskar70111@gmail.com subject=feedback">sanskar70111@gmail.com</a></p>
+    <form  action="mailto:vishwakarma9852@gmail.com" method="post" enctype="text/plain"><br>
+      <hr>
+      <br>
+      <label>your name</label>
+      <input type="text" name="your name" value="">
+<br>
+      <label>Your email</label>
+      <input type="text" name="your email" value="">
+
+      <br>
+      <label>Ask me anything</label>
+      <br>
+      <textarea name="your message" rows="8" cols="10"></textarea>
+      <input type="submit" name="">
+    </form>
+
+  </body>
+</html>
